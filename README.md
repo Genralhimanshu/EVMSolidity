@@ -6,7 +6,7 @@ This program show how to make tokens in remix.ethereum.org
 
 # MyToken
 
-MyToken is an Ethereum  mytoken contract that allows the contract owner to mint tokens to a provided address, and users to burn and transfer tokens.
+MyToken is an Ethereum  paltoken contract that allows the contract owner to mint tokens to a provided address, and users to burn and transfer tokens.
 
 # Features
 
